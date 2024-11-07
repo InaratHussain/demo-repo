@@ -1,8 +1,6 @@
-Here's a more stylized version of your README to make it attractive and easy to read. I've added headers, emojis, and better formatting:
+# 🧠 Autism Detection in Toddlers using Bayesian Network
 
 ---
-
-# 🧠 Autism Detection in Toddlers using Bayesian Network
 
 ## 📖 Overview
 
@@ -83,4 +81,3 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 ---
 
-This formatting makes the README visually appealing and organized, with emojis adding a friendly touch for readability.
