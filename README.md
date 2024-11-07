@@ -1,6 +1,5 @@
 # 🧠 Autism Detection in Toddlers using Bayesian Network
 
----
 
 ## 📖 Overview
 
@@ -79,5 +78,4 @@ Contributions are welcome! If you have suggestions for improving the model or ad
 
 This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) file for more details.
 
----
 
