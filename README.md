@@ -33,8 +33,6 @@ Through this research, we gained foundational insights into Bayesian Networks, u
 - **Behavioral Questionnaire**: Includes questions evaluating developmental behaviors like eye contact and social interaction.
 - **Machine Learning Predictions**: Uses a Naive Bayes classifier to analyze user input and predict ASD likelihood.
 - **Clear Results and Insights**: Provides probability-based predictions with interpretative insights.
-- **Error Handling**: Ensures required fields are accurately filled with user-friendly prompts.
-- **Privacy and Security**: Ensures user data privacy.
 - **Educational Resources**: Links to information on autism signs and early detection importance.
 
 ## 🛠️ Prerequisites
@@ -49,7 +47,7 @@ Through this research, we gained foundational insights into Bayesian Networks, u
 2. **Modeling with Naive Bayes**: Our initial classifier was Naive Bayes, chosen for its simplicity and effectiveness in handling probabilistic predictions. We also experimented with **Random Forest** and **Ensemble Models** for comparison.
 3. **Frontend Implementation**: To showcase the Naive Bayes classifier, we built a basic frontend using **HTML, CSS, and Vanilla JS**.
 4. **Testing and Evaluation**: We compared model accuracy across Naive Bayes, Random Forest, and Ensemble Models to determine the most reliable predictor. 
-5. **GitHub Repository**: Our project codebase is available on [GitHub](https://github.com/ayushkumar912/Toddler_Autism_Prediction).
+5. The whole project can be viewed on this repository.
 
 ## 📈 Results
 
