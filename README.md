@@ -14,7 +14,7 @@ Early detection of **Autism Spectrum Disorder (ASD)** is crucial for providing c
 
 ## 📁 Dataset
 
-The model is trained on a dataset specifically designed for **autism screening in toddlers**, containing a range of behavioral indicators associated with ASD.
+The model is trained on a dataset specifically designed for **autism screening in toddlers**, containing a range of behavioral indicators associated with ASD obtained from the website **Kaggle**.
 
 ## 🛠️ Installation
 
@@ -70,9 +70,11 @@ The model is trained on a dataset specifically designed for **autism screening i
 
 This Bayesian model provides **probabilistic predictions** that emphasize **interpretability**, allowing users to understand the impact of different attributes on autism detection.
 
-## 🤝 Contributions
-
-Contributions are welcome! If you have suggestions for improving the model or adding features, feel free to open a pull request. Feedback and issue reports are also appreciated.
+## 👥 Contributors
+Aninda Paul - Roll No: 202211002
+Ayush Kumar - Roll No: 202211008
+Devrikh Jatav - Roll No: 202211018
+Inarat Hussain - Roll No: 202211030
 
 ## 📜 License
 
